@@ -51,7 +51,7 @@ function initMap() {
     position: coordinatesMarker,
     map: map,
     icon: {
-      url: '../img/map-pin.png',
+      url: 'img/map-pin.png',
       scaledSize: new google.maps.Size(markerWidth, markerHeight),
     }
   });
